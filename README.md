@@ -1,10 +1,9 @@
-### Hi there 👋
+### Arnoldo Del Toro Peña👋
 
-**arnoldae9/arnoldae9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando como analista de datos en **AB Consulting**, la cual es una consultoría con presencia en Monterrey, Nuevo León, México. Las principales actividades son:
+- [x] Actualización, mantenimiento y creación de tablas y/o base de datos.
+- [x]    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
