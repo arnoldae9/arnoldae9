@@ -1,6 +1,7 @@
 ### Arnoldo Del Toro Peña👋
 
-[Preguntas frecuentes]: Preguntas.md
+- [Preguntas frecuentes:](Preguntas.md)
+
 
 - 🔭 Actualmente estoy trabajando como analista de datos en **AB Consulting**, la cual es una consultoría con presencia en Monterrey, Nuevo León, México; ofreciendo servicio en el departamento de membresías para un club de precios de presencia importante en México. Las principales actividades son:
 - [x] Actualización, mantenimiento y creación de tablas y/o base de datos.
