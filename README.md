@@ -1,6 +1,6 @@
 ### Arnoldo Del Toro Peña👋
 
-- [Preguntas frecuentes:](Preguntas.md)
+- [Preguntas frecuentes de entrevistas](Preguntas.md)
 
 
 - 🔭 Actualmente estoy trabajando como analista de datos en **AB Consulting**, la cual es una consultoría con presencia en Monterrey, Nuevo León, México; ofreciendo servicio en el departamento de membresías para un club de precios de presencia importante en México. Las principales actividades son:
@@ -32,4 +32,4 @@
 - ⚡ 
 1. Soy recién egresado de la Maestría en Ciencias de la Ingeniería con Orientación en Sistemas, también cuento con una licenciatura en Matemáticas. Tengo un interés por los patrones, comportamiento y análisis de datos con el objetivo de lograr experimentación y predicción de datos.
 2. Me considero una persona optimista y divertida en ámbitos personales. En lo laboral creo que el principal factor para lograr un objetivo en común es la sintonía correcta de responsabilidades, en otras palabras comunicar de manera breve y eficaz requerimientos y responsabilidades a cada uno de los participantes.   
-3. 
+
