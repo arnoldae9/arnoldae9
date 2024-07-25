@@ -28,8 +28,7 @@
 [gmail]: arnoldae9@gmail.com
 [hotmail]: arnold_a_e@hotmail.com
 [uanl]: arnoldo.toropn@uanl.edu.mx
-- 😄 Pronouns: ...
-- ⚡ 
+- Algo más ...
 1. Soy recién egresado de la Maestría en Ciencias de la Ingeniería con Orientación en Sistemas, también cuento con una licenciatura en Matemáticas. Tengo un interés por los patrones, comportamiento y análisis de datos con el objetivo de lograr experimentación y predicción de datos.
 2. Me considero una persona optimista y divertida en ámbitos personales. En lo laboral creo que el principal factor para lograr un objetivo en común es la sintonía correcta de responsabilidades, en otras palabras comunicar de manera breve y eficaz requerimientos y responsabilidades a cada uno de los participantes.   
 
