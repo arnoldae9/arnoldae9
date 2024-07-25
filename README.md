@@ -8,10 +8,10 @@
 - [x] Gestión de base de datos para la generación de reportes comerciales en el departamento de membresías.
 - [x] Mantenimiento, actualización y generación de procesos en base de datos.
 - [x] Recopilación y limpieza de datos para garantizar la exactitud y análisis. Creación e interpretación de estadísticos con objetivo de apoyar al departamento de ventas de membresías.
-- [x] Comunicación de resultados de manera clara y concisa en ventas generales para la elaboración de propuestas y en la creación de valor. \
+- [x] Comunicación de resultados de manera clara y concisa en ventas generales para la elaboración de propuestas y en la creación de valor. 
 - [x] Mantenimiento y creación de tableros R para la automatización de reportes estadísticos.
-- [ ] Migración de base de datos al sistema SAP.
-- [ ] Geolocalización de ventas basada en aprendizaje máquina.
+- [x] Migración de base de datos al sistema SAP.
+- [x] Geolocalización de ventas basada en aprendizaje máquina.
   
 **NOTA:** El proyecto sigue en curso, los problemas de retraso han surgido de problemas de acceso por parte de la empresa a la que se le proporciona el servicio.
 
@@ -32,3 +32,6 @@
 1. Soy recién egresado de la Maestría en Ciencias de la Ingeniería con Orientación en Sistemas, también cuento con una licenciatura en Matemáticas. Tengo un interés por los patrones, comportamiento y análisis de datos con el objetivo de lograr experimentación y predicción de datos.
 2. Me considero una persona optimista y divertida en ámbitos personales. En lo laboral creo que el principal factor para lograr un objetivo en común es la sintonía correcta de responsabilidades, en otras palabras comunicar de manera breve y eficaz requerimientos y responsabilidades a cada uno de los participantes.   
 
+![Certificado Talend - Udemy](../arnoldae9/CertificadoTalend.jpg)
+
+![Certificado Postman - Udemy](../arnoldae9/CertificadoPostman.jpg)
