@@ -22,12 +22,9 @@
   Me considero una persona apasionada por el conocimiento, pienso que cualquier persona puede enseñarnos algo nuevo. Considero que la mejor forma de mejorar nuestras habilidades es enseñando. Algo que apoyo es el uso de una comunicación *efectiva* tanto en mi vida personal como en la laboral, por lo cual intento mejorarla día a día. Prefiero el auto-aprendizaje, sin embargo no tengo oposición cuando alguien se dispone a enseñarme. Me encantan las matemáticas, es algo increíble lograr implementarlas en problemas reales. Aun más, lograr una comunicación efectiva en base a resultados, y/o información generada. 
 - 📫 Contacto: 
   - [correo hotmail](mailto:arnold_a_e@hotmail.com)
-  - [correo gmail][gmail]
-  - [correo universitario][uanl]
+  - [correo gmail][mailto:arnoldae9@gmail.com]
+  - [correo universitario][mailto:arnoldo.toropn@uanl.edu.mx]
 
-[gmail]: arnoldae9@gmail.com
-[hotmail]: arnold_a_e@hotmail.com
-[uanl]: arnoldo.toropn@uanl.edu.mx
 - Algo más ...
 1. Soy recién egresado de la Maestría en Ciencias de la Ingeniería con Orientación en Sistemas, también cuento con una licenciatura en Matemáticas. Tengo un interés por los patrones, comportamiento y análisis de datos con el objetivo de lograr experimentación y predicción de datos.
 2. Me considero una persona optimista y divertida en ámbitos personales. En lo laboral creo que el principal factor para lograr un objetivo en común es la sintonía correcta de responsabilidades, en otras palabras comunicar de manera breve y eficaz requerimientos y responsabilidades a cada uno de los participantes.   
