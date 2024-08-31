@@ -21,8 +21,8 @@
 - 💬 Algo sobre mi:
   Me considero una persona apasionada por el conocimiento, pienso que cualquier persona puede enseñarnos algo nuevo. Considero que la mejor forma de mejorar nuestras habilidades es enseñando. Algo que apoyo es el uso de una comunicación *efectiva* tanto en mi vida personal como en la laboral, por lo cual intento mejorarla día a día. Prefiero el auto-aprendizaje, sin embargo no tengo oposición cuando alguien se dispone a enseñarme. Me encantan las matemáticas, es algo increíble lograr implementarlas en problemas reales. Aun más, lograr una comunicación efectiva en base a resultados, y/o información generada. 
 - 📫 Contacto: 
-  - [correo hotmail][arnold_a_e@hotmail.com]
-  - [correo gmail][gmail<!--  -->]
+  - [correo hotmail](arnold_a_e@hotmail.com)
+  - [correo gmail][gmail]
   - [correo universitario][uanl]
 
 [gmail]: arnoldae9@gmail.com
