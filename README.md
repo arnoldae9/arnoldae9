@@ -32,3 +32,5 @@
 ![Certificado Talend - Udemy](/CertificadoTalend.jpg)
 
 ![Certificado Postman - Udemy](/CertificadoPostman.jpg)
+
+![Certificado Git - Udemy](/certificado%20github.jpg)
