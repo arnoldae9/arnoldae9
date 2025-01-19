@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.minimap.autohide": true,
+		"diffEditor.codeLens": true,
+		"files.insertFinalNewline": true,
+		"workbench.colorTheme": "Solarized Dark"
+	}
+}

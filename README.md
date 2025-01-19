@@ -2,8 +2,8 @@
 
 - [Preguntas frecuentes de entrevistas](Preguntas.md)
 
-
-- 🔭 Actualmente estoy trabajando como analista de datos en **AB Consulting**, la cual es una consultoría con presencia en Monterrey, Nuevo León, México; ofreciendo servicio en el departamento de membresías para un club de precios de presencia importante en México. Las principales actividades son:
+- 🔭 Mi última posición de trabajo fue en *Schneider Electric* como **Open It Engineer (Temporal)**, desde el 18 de Diciembre del 2023 al 18 de Diciembre del 2024. Mis principales actividades eran vinculadas con la trazabilidad en los procesos de manufactura generados por los productos de Schneider Electric, esta actividad conllevaba la manipulación de datos por medio de SQL, carga por medio de API's, generación de reportes por medio de tableau; también era responsable del despliegue del sistema de trazabilidad involucrando la instalación de todo el software antes mencionado; por otra parte era responsable del mantenimiento de scripts por medio de Talend para la correcta integración de órdenes de trabajo de forma automática y el correcto envío de datos a la base de datos.
+- 🔭 Siguiendo hacia atrás mi línea laboral, trabajé en **AB Consulting**, la cual es una consultoría con presencia en Monterrey, Nuevo León, México; ofreciendo servicio en el departamento de membresías para un club de precios de presencia importante en México. Las principales actividades son:
 - [x] Actualización, mantenimiento y creación de tablas y/o base de datos.
 - [x] Gestión de base de datos para la generación de reportes comerciales en el departamento de membresías.
 - [x] Mantenimiento, actualización y generación de procesos en base de datos.
@@ -13,7 +13,7 @@
 - [x] Migración de base de datos al sistema SAP.
 - [x] Geolocalización de ventas basada en aprendizaje máquina.
   
-**NOTA:** El proyecto sigue en curso, los problemas de retraso han surgido de problemas de acceso por parte de la empresa a la que se le proporciona el servicio.
+**NOTA:** El proyecto sigue en curso, los problemas de retraso han surgido de problemas de acceso por parte de la empresa a la que se le proporciona el servicio. Ya no pudé actualizar está nota debido a que cambie de trabajo.
 
 - 🌱 Actualmente estoy en auto-aprendizaje  y actualización en algunas plataformas en línea, con una aplicación directa a las habilidades necesarias para aumentar mis habilidades como científico de datos.
 - 🤔 Me gustaría colaborar en un proyecto con objetivo de implementar el aprendizaje *Q-Learning* en un problema vinculado en procesos de venta o suministro.
